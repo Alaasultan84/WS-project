@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# WS Project
+## WS- Project Structure
 
 *Default Structure for A Basic Project*
 
